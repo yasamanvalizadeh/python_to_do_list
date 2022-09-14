@@ -1,5 +1,11 @@
 # python_to_do_list
 A to do list app with Christmas theme!
+1. You can create tasks.
+2. Manage tasks in a list
+3. Mark completed tasks
+4. View the details of each task in the task list.
+5. Set a reminder
+6. Use the calendar and digital clock if needed.
 # images_project
 ![Screenshot (130)](https://user-images.githubusercontent.com/112771618/190139352-fde7fdfd-7498-4803-bb88-0156d4f73b73.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/112771618/190139621-5eea4f89-8947-4822-95d4-f33d8df1f6f3.png)

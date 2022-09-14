@@ -1,6 +1,6 @@
 # python_to_do_list
 A to do list app with Christmas theme!
-#images
+# images_project
 ![Screenshot (130)](https://user-images.githubusercontent.com/112771618/190139352-fde7fdfd-7498-4803-bb88-0156d4f73b73.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/112771618/190139621-5eea4f89-8947-4822-95d4-f33d8df1f6f3.png)
 ![Screenshot (132)](https://user-images.githubusercontent.com/112771618/190139722-9bcd9116-cd8c-4857-9e55-57f9a1f213a1.png)

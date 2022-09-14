@@ -1,3 +1,15 @@
+"""
+author: 'Yasaman Valizadeh'
+
+-------------------------
+To do list App
+
+-------------------------
+Python GUI app using tkinter.
+program needs to be run from command line/ terminal.
+"""
+
+
 from tkinter import *
 from tkinter import ttk
 from tkcalendar import DateEntry

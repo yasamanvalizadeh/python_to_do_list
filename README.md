@@ -1,5 +1,6 @@
 # A to do list app with Christmas theme!
-1. You can create tasks.
+You can
+1. create tasks.
 2. Manage tasks in a list.
 3. Mark completed tasks.
 4. View the details of each task in the task list.

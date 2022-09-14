@@ -1,5 +1,4 @@
-# python_to_do_list
-A to do list app with Christmas theme!
+# A to do list app with Christmas theme!
 1. You can create tasks.
 2. Manage tasks in a list.
 3. Mark completed tasks.
